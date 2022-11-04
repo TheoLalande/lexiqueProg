@@ -19,5 +19,4 @@ entier = 20
 bin(entier) #Retourne 20 en base 2
 oct(entier) #Retourne 20 en base 8
 hex(entier) #retourne 20 en base 16
-
 help(print) #Permet d'afficher la doc de la fonction print
